@@ -1,0 +1,4 @@
+
+class VideoSchema { }
+
+export { VideoSchema }
